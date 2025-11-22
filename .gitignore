@@ -77,6 +77,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+hipotese/
+data/dicionario.txt
 
 # IPython
 profile_default/
